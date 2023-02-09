@@ -1,2 +1,2 @@
 #!/bin/bash
-chown user:group file1.txt
+chown user:group hello
