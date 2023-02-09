@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -rwxr-x--x 7-everybody
+chmod ugo+x hello
