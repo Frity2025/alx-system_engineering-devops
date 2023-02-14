@@ -1,1 +1,1 @@
- script that prints “Hello, World” 
+a script that creates an alias
